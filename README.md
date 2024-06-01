@@ -1,2 +1,2 @@
-# Snusbase-CLI
-Simple CLI Snusbase Python script
+# Snusbase-GUI
+Simple GUI Snusbase Python script
