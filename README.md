@@ -1,2 +1,2 @@
-# Snusbase-discord-tool
-WIP Snusbase discord tool to install, configure, update and manage my selfbot
+# M1stral discord tool
+WIP M1stral Discord tool to install, manage and update M1stral Selfbot
